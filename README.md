@@ -1,4 +1,4 @@
-# Login Form - A Simple Notepad Project
+# Login Form
 ### Practicing with HTML and CSS.
 
 I had a really good time doing this project.
