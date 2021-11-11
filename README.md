@@ -1,7 +1,7 @@
 # Login Form
 ### Practicing with HTML and CSS.
 
-I had a really good time doing this project.
+I had a really good time doing this project.<br>
 I'm not new to HTML nor CSS, but I have returned my studies on this since I stopped it a while ago.
 
 ## Screenshot
